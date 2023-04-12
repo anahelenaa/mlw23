@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+body {
+    background-color: rgb(255, 143, 199);
+    font-family:  'Playfair Display', serif;
+    color: rgb(58, 11, 25);
+}
+
+.one_link:hover {color: rgb(58, 11, 25);
+    font-size: 150%;}
+.one_link:link   {color: rgb(58, 11, 25);}
+.one_link:visited {color: rgb(58, 11, 25);}
+
+.cabeçalho:link {color: rgb(58, 11, 25);}
+.cabeçalho:hover {color: rgb(255, 255, 255);}
+.cabeçalho:visited {color: rgb(58, 11, 25);}
+
+
+
+
+
+
